@@ -1,0 +1,82 @@
+[
+    {
+        "id": "37dca317-6d25-4737-a7a7-6e43d26ced8e",
+        "name": "Reggae",
+        "slug": "reggae",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "3c3b70e4-64eb-4f6f-8c39-b26cc972b3c9",
+        "name": "Rock",
+        "slug": "rock",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "6f1648ab-b12f-4ab0-8f7a-f0a14229654f",
+        "name": "Electronic",
+        "slug": "electronic",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "75bd6a72-f96a-4e6f-96af-7d5803e7d393",
+        "name": "Jazz",
+        "slug": "jazz",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "76b7fcb8-654c-4ea0-996c-70cd4bf1201d",
+        "name": "Pop",
+        "slug": "pop",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "7fb6a3a0-ec58-479d-b5d0-28e4ecc48ff3",
+        "name": "Folk",
+        "slug": "folk",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "bdafef80-c5fa-4114-9f5a-39325bc23746",
+        "name": "Country",
+        "slug": "country",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "c3d8b822-514b-4a5a-8c4c-d2d2b8ba6d23",
+        "name": "Classical",
+        "slug": "classical",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "e330944e-a7a5-45ac-90dc-3f9315c88cc0",
+        "name": "Hip-Hop",
+        "slug": "hip-hop",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    },
+    {
+        "id": "e503145a-6bc4-4aaf-83e9-f42b24bc694d",
+        "name": "R&B",
+        "slug": "rb",
+        "description": "",
+        "created_at": "2025-09-16 13:42:19.6574+00",
+        "updated_at": "2025-09-16 13:42:19.6574+00"
+    }
+]

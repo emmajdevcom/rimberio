@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4a0d82a4-b1ff-41b9-af89-3608096bf173",
+    "title": "Golden Collection Of Zubeen Vol - IV",
+    "slug": "golden-collection-of-zubeen-vol-iv",
+    "description": "A beautiful set of Zubeen Garg\u2019s unforgettable songs filled with emotion, melody, and charm.",
+    "cover_url": "https://c.saavncdn.com/204/Golden-Collection-Of-Zubeen-Vol-4-Assamese-2015-20181001103337-500x500.jpg",
+    "release_date": "2025-09-21",
+    "genre_id": "c3d8b822-514b-4a5a-8c4c-d2d2b8ba6d23",
+    "artist_id": "3a8a6284-9585-4a8e-9116-7b12f4f35bf7",
+    "created_at": "2025-09-20 18:45:34.755164+00",
+    "updated_at": "2025-09-20 18:47:08.995543+00",
+    "is_featured": "true"
+  },
+  {
+    "id": "a66252b8-0484-4269-81ae-4b9a88dc1183",
+    "title": "Golden Collection Of Zubeen Vol - I",
+    "slug": "golden-collection-of-zubeen-vol-i",
+    "description": "A timeless collection of soulful melodies by Zubeen Garg that touches hearts and stays forever.",
+    "cover_url": "https://c.saavncdn.com/174/Golden-Collection-Of-Zubeen-Vol-1-Assamese-2015-20181001103208-500x500.jpg",
+    "release_date": "2025-09-20",
+    "genre_id": "c3d8b822-514b-4a5a-8c4c-d2d2b8ba6d23",
+    "artist_id": "3a8a6284-9585-4a8e-9116-7b12f4f35bf7",
+    "created_at": "2025-09-20 17:49:41.239371+00",
+    "updated_at": "2025-09-20 17:54:28.344018+00",
+    "is_featured": "true"
+  }
+]
