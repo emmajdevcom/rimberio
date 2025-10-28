@@ -592,7 +592,7 @@
         "name": "Himesh Reshammiya",
         "slug": "himesh-reshammiya",
         "bio": "Indian singer, composer, and actor known for catchy Bollywood hits.",
-        "avatar_url": "https://i.pinimg.com/736x/cb/0a/6e/cb0a6e17b9979e9259e28fc82b883711.jpg",
+        "avatar_url": "https://res.cloudinary.com/dgfhojzuq/image/upload/v1761653409/cb0a6e17b9979e9259e28fc82b883711_lmptqm.jpg",
         "is_verified": "true",
         "created_by": "",
         "created_at": "2025-09-16 20:19:16.514639+00",
@@ -700,7 +700,7 @@
         "name": "The Weeknd",
         "slug": "the-weeknd",
         "bio": "Canadian singer blending R&B, pop, and dark atmospheric sounds.",
-        "avatar_url": "https://i.pinimg.com/1200x/a3/06/85/a306857c46526bdbbb73728c959113c1.jpg",
+        "avatar_url": "https://res.cloudinary.com/dgfhojzuq/image/upload/v1761653805/a306857c46526bdbbb73728c959113c1_slggro.jpg",
         "is_verified": "true",
         "created_by": "",
         "created_at": "2025-09-16 14:25:56.259455+00",
@@ -712,7 +712,7 @@
         "name": "Zubeen Garg",
         "slug": "zubeen-garg",
         "bio": "Indian singer and composer popular in Assamese and Bollywood music.",
-        "avatar_url": "https://i.pinimg.com/736x/d6/55/f7/d655f78d4d405b897a79a2ab8660fcfe.jpg",
+        "avatar_url": "https://res.cloudinary.com/dgfhojzuq/image/upload/v1761653841/d655f78d4d405b897a79a2ab8660fcfe_gg4vl5.jpg",
         "is_verified": "true",
         "created_by": "",
         "created_at": "2025-09-16 20:33:31.725617+00",
@@ -3179,4 +3179,5 @@
         "updated_at": "2025-09-18 18:35:07.027581+00",
         "is_featured": "false"
     }
+
 ]
