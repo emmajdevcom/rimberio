@@ -1,51 +1,46 @@
 [
     {
         "id": "0716055f-9bb9-4379-9be7-d1fdc8f84aeb",
-        "title": "Midnight Drive",
+        "title": "My Songs",
         "slug": "my-songs-fr274e",
-        "description": "Smooth beats for late-night rides and deep thoughts.",
-        "cover_url": "https://i.pinimg.com/736x/fc/10/49/fc10499c11978221ebe8754017edabc3.jpg",
+        "description": "Throwback hits that bring back the best of the ‘80s and ‘90s.",
+        "cover_url": "https://i.pinimg.com/736x/80/8f/6c/808f6c56bbbc53a0934af234e4943b4b.jpg",
         "is_public": "true",
-        "user_id": "968b89d6-5f2f-43dc-a87c-4293a947b24d",
+        "created_by": "John Doe",
         "created_at": "2025-09-30 18:47:22.497105+00",
-        "updated_at": "2025-09-30 18:47:22.497105+00",
-        "folder_id": ""
+        "updated_at": "2025-09-30 18:47:22.497105+00"
     },
     {
         "id": "45154a49-046b-447c-b80a-6a0da8a86445",
-        "title": "Retro Fever",
+        "title": "Midnight",
         "slug": "dfdf-vam35o",
-        "description": "Throwback hits that bring back the best of the ‘80s and ‘90s.",
+        "description": "Acoustic tunes and mellow vibes to start your day slow and easy.",
         "cover_url": "https://i.pinimg.com/736x/f7/a4/95/f7a495a66437c943a64b77d45bb078eb.jpg",
-        "is_public": "true",
-        "user_id": "6e3aa6aa-33e1-4788-87ea-ce9a0f57f92f",
+        "is_public": "false",
+        "created_by": "John Doe",
         "created_at": "2025-09-30 19:31:39.997236+00",
-        "updated_at": "2025-09-30 19:31:39.997236+00",
-        "folder_id": ""
+        "updated_at": "2025-09-30 19:31:39.997236+00"
     },
     {
         "id": "a2fe2ec8-5d43-4851-a12d-3f7cc36c14af",
         "title": "Zubeen Garg - Assamese Classics",
         "slug": "zubeen-garg-assamese-classics",
         "description": "A soulful collection of Zubeen Garg\u2019s Assamese hits that capture love and nostalgia. Perfect for relaxing evenings or long journeys.",
-        "cover_url": "",
+        "cover_url": "https://i.pinimg.com/736x/a8/5c/0b/a85c0b9468e28f85e710e293c55288c7.jpg",
         "is_public": "true",
-        "user_id": "a91071d0-7949-41f5-be72-27103d8d3695",
+        "created_by": "Sara Ali",
         "created_at": "2025-09-21 16:36:41.534779+00",
-        "updated_at": "2025-09-21 16:36:41.534779+00",
-        "folder_id": ""
+        "updated_at": "2025-09-21 16:36:41.534779+00"
     },
     {
         "id": "a88e7e86-8db7-46a4-825a-9e872050e795",
-        "title": "My songs ",
-        "slug": "my-songs",
-        "description": "",
+        "title": "My Fav songs ",
+        "slug": "my-fav-songs",
+        "description": "Smooth beats for late-night rides and deep thoughts.",
         "cover_url": "https://res.cloudinary.com/ducszfujs/image/upload/v1744492001/ii_8E4zawhW8ARpz0GAzFkLGzg9dUOmlmz4Z3skCudi_0IZ6pSKggTj_6iAtPsey7ZaCVHNLfYswhfNr_w544-h544-l90-rj_kzg6yg.jpg",
         "is_public": "true",
-        "user_id": "6e3aa6aa-33e1-4788-87ea-ce9a0f57f92f",
+        "created_by": "Aisha Khan",
         "created_at": "2025-09-30 18:26:01.471784+00",
-        "updated_at": "2025-09-30 18:26:02.335794+00",
-        "folder_id": ""
+        "updated_at": "2025-09-30 18:26:02.335794+00"
     }
-
 ]
